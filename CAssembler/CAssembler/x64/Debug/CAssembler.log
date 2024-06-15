@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Programming\COME2109_BCAssembler\CAssembler\main.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  CAssembler.vcxproj -> E:\Programming\COME2109_BCAssembler\CAssembler\x64\Debug\CAssembler.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
