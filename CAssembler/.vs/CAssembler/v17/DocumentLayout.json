@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\translator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "translator.h",
               "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h",
               "RelativeDocumentMoniker": "src\\translator.h",
@@ -49,14 +49,14 @@
               "RelativeDocumentMoniker": "src\\translator.cpp",
               "ToolTip": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.cpp",
               "RelativeToolTip": "src\\translator.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-15T15:29:56.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T15:22:27.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T15:22:27.787Z"
             }
           ]
         }
