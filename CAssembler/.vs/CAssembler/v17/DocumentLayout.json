@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\translator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{980CDF45-992D-4E82-A6C8-BE340729B0A3}|CAssembler.vcxproj|solutionrelative:src\\translator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "translator.h",
+              "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h",
+              "RelativeDocumentMoniker": "src\\translator.h",
+              "ToolTip": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.h",
+              "RelativeToolTip": "src\\translator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-16T03:08:34.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "translator.cpp",
+              "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.cpp",
+              "RelativeDocumentMoniker": "src\\translator.cpp",
+              "ToolTip": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\translator.cpp",
+              "RelativeToolTip": "src\\translator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T14:58:34.416Z",
+              "WhenOpened": "2024-06-15T15:29:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "E:\\Programming\\COME2109_BCAssembler\\CAssembler\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T15:22:27.787Z",
               "EditorCaption": ""
             }
           ]
