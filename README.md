@@ -9,3 +9,4 @@
 1. txt 파일에서 명령어 리스트 받아옴
 2. first pass 수행 -> Address Symbol Table 작성
 3. second pass 수행 -> 미리 작성한 Pseudo-Instruction Table, instruction(MRI Table + Non-MRI Table)과 first pass에서 작성한 Address Symbol Table을 가지고 명령어를 기계어로 변환
+4. Address Symbol Table과 기계어 변환 결과 콘솔에 출력
