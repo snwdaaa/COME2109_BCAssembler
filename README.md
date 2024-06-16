@@ -2,7 +2,7 @@
 
 ## BCAssembler
 - Basic Computer에서 작동하는 Assembler
-- C로 구현
+- C++로 구현
 - Computer System Architecture(M. Morris Mano) 내용 참고
 
 ## 작동 방식
